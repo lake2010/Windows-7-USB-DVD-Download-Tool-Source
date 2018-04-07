@@ -1,0 +1,12 @@
+#explicit binary content (reduced diff).
+
+*.exe      binary
+
+*.manifest text eol=crlf
+*.h        text eol=crlf
+*.vcproj   text eol=crlf
+*.cpp      text eol=crlf
+*.resx     text eol=crlf
+*.cs       text eol=crlf
+*.sln      text eol=crlf
+*.cmd      text eol=crlf
